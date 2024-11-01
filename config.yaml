@@ -1,0 +1,6 @@
+# config.yaml
+path: C:\Users\029\PycharmProjects\opencv3 # Путь к папке с вашим датасетом
+train: C:\Users\029\PycharmProjects\opencv3\dataset\images # Путь к папке с тренировочными изображениями
+val: C:\Users\029\PycharmProjects\opencv3\dataset\images # Путь к папке с валидационными изображениями
+nc: 2 # Укажите количество классов в вашем датасете
+names: ['Roki 2', 'Walker'] # Список с названиями классов
